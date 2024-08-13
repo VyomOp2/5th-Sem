@@ -1,6 +1,6 @@
 ## Software Engineering : It is a process of designing , developing , testinng and maintaing software . It is systematic and disciplined aproach to software development that aim to create high quality , reliable and maintainable software.
 
-## Software Engineering is mainly used for large parojects based on software systems rather than single programs or application
+### Software Engineering is mainly used for large parojects based on software systems rather than single programs or application
 
 ### Characteristics of Software :
 	It is intanible , meaning it cannot be seen or touched.
