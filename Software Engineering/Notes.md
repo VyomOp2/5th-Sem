@@ -334,3 +334,91 @@ Security Engineering involves the use of methods, techniques, and tools to devel
 
 Security engineering is vital for safeguarding systems against threats, ensuring that they remain secure, reliable, and resilient to attacks.
 
+---
+## Metrics :
+
+In software engineering, **metrics** are used to measure various aspects of the software development process and the quality of the final product. Metrics provide quantitative data that helps teams make informed decisions, improve processes, and ensure software quality. Here are some key types of software metrics:
+
+---
+
+### 1. **Product Metrics**
+
+Product metrics measure characteristics of the software product itself, focusing on its quality, reliability, and maintainability.
+
+- **Defect Density**: Measures the number of defects per size (e.g., per 1,000 lines of code).
+- **Code Complexity**: Analyzes code complexity using metrics like **Cyclomatic Complexity** (counts the number of linearly independent paths through code).
+- **Maintainability Index**: Combines various factors, such as code complexity and comments, to estimate the maintainability of the code.
+- **Performance Metrics**: Evaluates performance aspects like response time, throughput, and memory usage.
+
+---
+
+### 2. **Process Metrics**
+
+Process metrics assess the effectiveness and efficiency of the software development process.
+
+- **Defect Removal Efficiency (DRE)**: The percentage of defects removed during development compared to the total found (pre- and post-release).
+- **Lead Time**: Measures the time from project start to completion.
+- **Cycle Time**: Measures the time taken to complete each step of the development process.
+- **Review Efficiency**: Measures the percentage of defects found during code reviews.
+- **Productivity**: Measures outputs like lines of code (LOC) or function points per developer over a time period.
+
+---
+
+### 3. **Project Metrics**
+
+Project metrics track project-related factors to assess progress, quality, and productivity.
+
+- **Cost Variance (CV)**: Difference between planned and actual costs.
+- **Schedule Variance (SV)**: Difference between planned and actual schedule.
+- **Effort Variance**: Difference between estimated and actual effort spent.
+- **Resource Utilization**: Tracks how well project resources are being used.
+- **Burn Rate**: Measures how quickly the project budget is being used.
+
+---
+
+### 4. **Code Quality Metrics**
+
+Code quality metrics measure aspects of the codebase to ensure high-quality, maintainable code.
+
+- **Code Coverage**: Percentage of code tested by automated tests.
+- **Code Churn**: Frequency of changes in the codebase, which can indicate instability.
+- **Duplication**: Measures the amount of duplicated code, which affects maintainability.
+- **Technical Debt**: Estimates the cost and effort required to fix code issues for maintainability.
+
+---
+
+### 5. **Testing Metrics**
+
+Testing metrics measure the quality and effectiveness of the testing process.
+
+- **Test Coverage**: Proportion of code covered by test cases.
+- **Defect Density**: Number of defects found per unit size during testing.
+- **Test Case Effectiveness**: Ratio of passed to failed test cases.
+- **Defect Leakage**: Defects found after release, indicating testing effectiveness.
+
+---
+
+### 6. **Reliability Metrics**
+
+Reliability metrics assess how dependable and stable the software is over time.
+
+- **Mean Time to Failure (MTTF)**: Average time before the system fails.
+- **Mean Time to Repair (MTTR)**: Average time taken to repair after a failure.
+- **Failure Rate**: Frequency of system failures.
+- **Availability**: Proportion of time the system is operational.
+
+---
+
+### 7. **User Satisfaction Metrics**
+
+User satisfaction metrics assess the user experience and satisfaction with the software.
+
+- **Net Promoter Score (NPS)**: Measures how likely users are to recommend the software.
+- **Customer Satisfaction Score (CSAT)**: Measures overall user satisfaction.
+- **Customer Effort Score (CES)**: Measures ease of use or effort required by users to interact with the software.
+  
+---
+
+### Summary
+
+By tracking these metrics, software teams can enhance decision-making, prioritize improvements, and maintain high standards for quality, efficiency, and customer satisfaction throughout the software development lifecycle.
