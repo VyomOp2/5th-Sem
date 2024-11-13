@@ -222,10 +222,6 @@
 
 ---
 
-Here's an in-depth explanation for each question regarding JavaServer Pages (JSP):
-
----
-
 1. **Explain the architecture of JSP. How does it compare to servlets in terms of request handling?**  
    JSP architecture is based on a model where Java code and HTML are embedded together, allowing web designers to create dynamic web pages. JSPs compile into servlets on the server-side:
    - **JSPs**: Focus more on presenting data, which makes them easier to use for front-end developers who mainly work with HTML.
@@ -326,10 +322,6 @@ Here's an in-depth explanation for each question regarding JavaServer Pages (JSP
     Hello, ${sessionScope.username}
     Your last login was on ${requestScope.lastLoginDate}
     ```
----
-
-Here's an in-depth explanation for each question regarding Hibernate in Java:
-
 ---
 
 ### 1. What is Hibernate? List out the advantages of Hibernate.
@@ -508,10 +500,6 @@ public class Address {
 ```
 
 The above code sets up a one-to-one relationship where each employee has one address. The `@OneToOne` annotation in `Employee` specifies this relationship, and the `@JoinColumn` denotes the foreign key in the `Employee` table.
-
----
-
-Here’s a detailed explanation for each question related to the Spring Framework:
 
 ---
 
